@@ -284,7 +284,7 @@ export const generateWhatsAppMessage = (serviceName: string): string => {
 };
 
 // Número de WhatsApp (actualizar con el número real)
-export const WHATSAPP_NUMBER = "593999999999"; // Cambiar por el número real
+export const WHATSAPP_NUMBER = "593979253802"; // Cambiar por el número real
 
 export const getWhatsAppLink = (serviceName?: string): string => {
   const baseUrl = `https://wa.me/${WHATSAPP_NUMBER}`;
